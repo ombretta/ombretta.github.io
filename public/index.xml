@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Moritz-Maria von Igelfeld</title>
+    <title>Ombretta Strafforello</title>
     <link>https://ombretta.github.io/</link>
-    <description>Recent content on Moritz-Maria von Igelfeld</description>
+    <description>Recent content on Ombretta Strafforello</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
@@ -30,20 +30,6 @@
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
-      <title>Unusual Uses For Olive Oil</title>
-      <link>https://ombretta.github.io/papers/paper1/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ombretta.github.io/papers/paper1/</guid>
-      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
-    </item>
-    <item>
-      <title>The Finer Points of Sausage Dogs</title>
-      <link>https://ombretta.github.io/papers/paper2/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://ombretta.github.io/papers/paper2/</guid>
-      <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
-    </item>
-    <item>
       <title>Lectures at the Villa of Reduced Circumstances</title>
       <link>https://ombretta.github.io/courses/course1/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
@@ -63,6 +49,161 @@
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
       <guid>https://ombretta.github.io/courses/course2/</guid>
       <description>This undergraduate course discusses profanity in Early Irish.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ombretta.github.io/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ombretta.github.io/papers/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34; dir=&#34;auto&#34;&gt;
+
+&lt;head&gt;&lt;script src=&#34;https://ombretta.github.io/livereload.js?mindelay=10&amp;amp;v=2&amp;amp;port=1313&amp;amp;path=livereload&#34; data-no-instant defer&gt;&lt;/script&gt;&lt;meta charset=&#34;utf-8&#34;&gt;
+&lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1, shrink-to-fit=no&#34;&gt;
+&lt;meta name=&#34;robots&#34; content=&#34;noindex, nofollow&#34;&gt;
+&lt;title&gt;Papers | Ombretta Strafforello&lt;/title&gt;
+&lt;meta name=&#34;keywords&#34; content=&#34;&#34;&gt;
+&lt;meta name=&#34;description&#34; content=&#34;Preprints and articles by Ombretta Strafforello.&#34;&gt;
+&lt;meta name=&#34;author&#34; content=&#34;Ombretta Strafforello&#34;&gt;
+&lt;link rel=&#34;canonical&#34; href=&#34;http://localhost:1313/papers/&#34;&gt;
+&lt;link crossorigin=&#34;anonymous&#34; href=&#34;https://ombretta.github.io/assets/css/stylesheet.e690afcd5c523330d5c8b4d746eb158361600a015e99518d4d246a6ccab0cc19.css&#34; integrity=&#34;sha256-5pCvzVxSMzDVyLTXRusVg2FgCgFemVGNTSRqbMqwzBk=&#34; rel=&#34;preload stylesheet&#34; as=&#34;style&#34;&gt;
+&lt;link rel=&#34;icon&#34; href=&#34;http://localhost:1313/favicon.ico&#34;&gt;
+&lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;16x16&#34; href=&#34;http://localhost:1313/favicon-16x16.png&#34;&gt;
+&lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;32x32&#34; href=&#34;http://localhost:1313/favicon-32x32.png&#34;&gt;
+&lt;link rel=&#34;apple-touch-icon&#34; href=&#34;http://localhost:1313/apple-touch-icon.png&#34;&gt;
+&lt;meta name=&#34;theme-color&#34; content=&#34;#2e2e33&#34;&gt;
+&lt;meta name=&#34;msapplication-TileColor&#34; content=&#34;#2e2e33&#34;&gt;
+&lt;link rel=&#34;alternate&#34; type=&#34;application/rss+xml&#34; href=&#34;http://localhost:1313/papers/index.xml&#34;&gt;
+&lt;link rel=&#34;alternate&#34; hreflang=&#34;en&#34; href=&#34;http://localhost:1313/papers/&#34;&gt;
+&lt;noscript&gt;
+    &lt;style&gt;
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    &lt;/style&gt;
+&lt;/noscript&gt;&lt;meta property=&#34;og:title&#34; content=&#34;Papers&#34; /&gt;
+&lt;meta property=&#34;og:description&#34; content=&#34;Preprints and articles by Ombretta Strafforello.&#34; /&gt;
+&lt;meta property=&#34;og:type&#34; content=&#34;website&#34; /&gt;
+&lt;meta property=&#34;og:url&#34; content=&#34;http://localhost:1313/papers/&#34; /&gt;
+
+&lt;meta name=&#34;twitter:card&#34; content=&#34;summary&#34;/&gt;
+&lt;meta name=&#34;twitter:title&#34; content=&#34;Papers&#34;/&gt;
+&lt;meta name=&#34;twitter:description&#34; content=&#34;Preprints and articles by Ombretta Strafforello.&#34;/&gt;
+
+
+&lt;script type=&#34;application/ld+json&#34;&gt;
+{
+  &#34;@context&#34;: &#34;https://schema.org&#34;,
+  &#34;@type&#34;: &#34;BreadcrumbList&#34;,
+  &#34;itemListElement&#34;: [
+    {
+      &#34;@type&#34;: &#34;ListItem&#34;,
+      &#34;position&#34;:  1 ,
+      &#34;name&#34;: &#34;Papers&#34;,
+      &#34;item&#34;: &#34;http://localhost:1313/papers/&#34;
+    }
+  ]
+}
+&lt;/script&gt;
+
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css&#34; integrity=&#34;sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww&#34; crossorigin=&#34;anonymous&#34;&gt;
+&lt;script defer src=&#34;https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js&#34; integrity=&#34;sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script defer src=&#34;https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js&#34; integrity=&#34;sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk&#34; crossorigin=&#34;anonymous&#34;
+  onload=&#34;renderMathInElement(document.body);&#34;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+    document.addEventListener(&#34;DOMContentLoaded&#34;, function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: &#39;$$&#39;, right: &#39;$$&#39;, display: true},
+            {left: &#39;$&#39;, right: &#39;$&#39;, display: false},
+            {left: &#34;\\begin{equation}&#34;, right: &#34;\\end{equation}&#34;, display: true},
+            {left: &#34;\\begin{equation*}&#34;, right: &#34;\\end{equation*}&#34;, display: true},
+            {left: &#34;\\begin{align}&#34;, right: &#34;\\end{align}&#34;, display: true},
+            {left: &#34;\\begin{align*}&#34;, right: &#34;\\end{align*}&#34;, display: true},
+            {left: &#34;\\begin{alignat}&#34;, right: &#34;\\end{alignat}&#34;, display: true},
+            {left: &#34;\\begin{gather}&#34;, right: &#34;\\end{gather}&#34;, display: true},
+            {left: &#34;\\begin{CD}&#34;, right: &#34;\\end{CD}&#34;, display: true},
+          ],
+          throwOnError : false
+        });
+    });
+&lt;/script&gt;
+
+
+
+&lt;/head&gt;
+
+&lt;body class=&#34;list&#34; id=&#34;top&#34;&gt;
+
+&lt;header class=&#34;header&#34;&gt;
+    &lt;nav class=&#34;nav&#34;&gt;
+        &lt;div class=&#34;logo&#34;&gt;
+            &lt;a href=&#34;http://localhost:1313/&#34; accesskey=&#34;h&#34; title=&#34;Ombretta Strafforello&#34;&gt;
+                &lt;img src=&#34;http://localhost:1313/favicon.ico&#34; alt=&#34;&#34; aria-label=&#34;logo&#34;
+                    height=&#34;18&#34;
+                    width=&#34;18&#34;&gt;Ombretta Strafforello&lt;/a&gt;
+            &lt;div class=&#34;logo-switches&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+&lt;!--        &lt;ul id=&#34;menu&#34;&gt;--&gt;
+&lt;!--            &lt;li&gt;--&gt;
+&lt;!--                &lt;a href=&#34;http://localhost:1313/papers/&#34; title=&#34;Papers&#34;&gt;--&gt;
+&lt;!--                    &lt;span class=&#34;active&#34;&gt;Papers&lt;/span&gt;--&gt;
+&lt;!--                &lt;/a&gt;--&gt;
+&lt;!--            &lt;/li&gt;--&gt;
+&lt;!--            &lt;li&gt;--&gt;
+&lt;!--                &lt;a href=&#34;http://localhost:1313/courses/&#34; title=&#34;Courses&#34;&gt;--&gt;
+&lt;!--                    &lt;span&gt;Courses&lt;/span&gt;--&gt;
+&lt;!--                &lt;/a&gt;--&gt;
+&lt;!--            &lt;/li&gt;--&gt;
+&lt;!--            &lt;li&gt;--&gt;
+&lt;!--                &lt;a href=&#34;http://localhost:1313/data/&#34; title=&#34;Data&#34;&gt;--&gt;
+&lt;!--                    &lt;span&gt;Data&lt;/span&gt;--&gt;
+&lt;!--                &lt;/a&gt;--&gt;
+&lt;!--            &lt;/li&gt;--&gt;
+&lt;!--            &lt;li&gt;--&gt;
+&lt;!--                &lt;a href=&#34;http://localhost:1313/books/&#34; title=&#34;Books&#34;&gt;--&gt;
+&lt;!--                    &lt;span&gt;Books&lt;/span&gt;--&gt;
+&lt;!--                &lt;/a&gt;--&gt;
+&lt;!--            &lt;/li&gt;--&gt;
+&lt;!--            &lt;li&gt;--&gt;
+&lt;!--                &lt;a href=&#34;https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_%28character%29&#34; title=&#34;Blog&#34;&gt;--&gt;
+&lt;!--                    &lt;span&gt;Blog&lt;/span&gt;&amp;nbsp;--&gt;
+&lt;!--                    &lt;svg fill=&#34;none&#34; shape-rendering=&#34;geometricPrecision&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34;--&gt;
+&lt;!--                        stroke-linejoin=&#34;round&#34; stroke-width=&#34;2.5&#34; viewBox=&#34;0 0 24 24&#34; height=&#34;12&#34; width=&#34;12&#34;&gt;--&gt;
+&lt;!--                        &lt;path d=&#34;M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6&#34;&gt;&lt;/path&gt;--&gt;
+&lt;!--                        &lt;path d=&#34;M15 3h6v6&#34;&gt;&lt;/path&gt;--&gt;
+&lt;!--                        &lt;path d=&#34;M10 14L21 3&#34;&gt;&lt;/path&gt;--&gt;
+&lt;!--                    &lt;/svg&gt;--&gt;
+&lt;!--                &lt;/a&gt;--&gt;
+&lt;!--            &lt;/li&gt;--&gt;
+&lt;!--        &lt;/ul&gt;--&gt;
+    &lt;/nav&gt;
+&lt;/header&gt;
+
+    &lt;main class=&#34;main&#34;&gt;
+&lt;header class=&#34;page-header&#34;&gt;
+  &lt;h1&gt;
+  &lt;/h1&gt;
+&lt;/header&gt;
+
+&lt;!--&lt;article class=&#34;post-entry&#34;&gt; --&gt;
+&lt;!--&lt;figure class=&#34;entry-cover&#34;&gt;--&gt;
+&lt;!--        &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/papers/paper1/paper1.png&#34; alt=&#34;Some Uses For Olive Oil&#34;&gt;--&gt;
+&lt;!--        --&gt;
+&lt;!--&lt;/figure&gt;--&gt;
+&lt;!--  &lt;header class=&#34;entry-header&#34;&gt;--&gt;
+&lt;!--    &lt;h2 class=&#34;entry-hint-parent&#34;&gt;Unusual Uses For Olive Oil--&gt;
+&lt;!--    &lt;/h2&gt;--&gt;
+&lt;!--  &lt;/header&gt;--&gt;
+&lt;!--  &lt;div class=&#34;entry-content&#34;&gt;--&gt;
+&lt;!--    &lt;p&gt;This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

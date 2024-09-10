@@ -5,11 +5,11 @@
     <loc>https://ombretta.github.io/location/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ombretta.github.io/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ombretta.github.io/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ombretta.github.io/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ombretta.github.io/data/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
@@ -50,39 +50,6 @@
     <loc>https://ombretta.github.io/tags/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ombretta.github.io/tags/history-of-oil/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ombretta.github.io/tags/mediterranean-world/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ombretta.github.io/tags/oleic-science/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ombretta.github.io/papers/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ombretta.github.io/papers/paper1/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ombretta.github.io/tags/canine-pulmonary-efficiency/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ombretta.github.io/tags/canine-science/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ombretta.github.io/tags/experimental-zoology/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ombretta.github.io/tags/sausage-dogs/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ombretta.github.io/papers/paper2/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ombretta.github.io/tags/zoology/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ombretta.github.io/courses/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -112,6 +79,8 @@
   </url><url>
     <loc>https://ombretta.github.io/courses/course2/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ombretta.github.io/papers/</loc>
   </url><url>
     <loc>https://ombretta.github.io/archive/</loc>
   </url>
