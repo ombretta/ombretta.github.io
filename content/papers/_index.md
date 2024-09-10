@@ -1,6 +1,4 @@
-# Papers | Ombretta Strafforello
-
-## Papers by Ombretta Strafforello
+# Selected publications
 
 ---
 
@@ -65,8 +63,3 @@
 - **Published**: Proceedings of the 16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2021)
 - [Read paper on Scitepress](https://www.scitepress.org/Papers/2021/102158/102158.pdf)
 
----
-
-### Footer
-&copy; 2024 [Ombretta Strafforello](http://localhost:1313)  
-Powered by [Hugo](https://gohugo.io/) & a modified version of [PaperMod](https://github.com/adityatelange/hugo-PaperMod/)
