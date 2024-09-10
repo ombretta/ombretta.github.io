@@ -63,7 +63,7 @@ params:
           imageTitle: Ombretta Strafforello
           buttons:
             - name: Papers
-#              url: papers/
+              url: papers/
 #            - name: Courses
 #              url: courses/
 #            - name: Data
